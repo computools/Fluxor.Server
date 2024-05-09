@@ -1,0 +1,15 @@
+C:\Work\Examples\Fluxor.Server\API\bin\Debug\net6.0\API.deps.json
+C:\Work\Examples\Fluxor.Server\API\bin\Debug\net6.0\API.dll
+C:\Work\Examples\Fluxor.Server\API\bin\Debug\net6.0\API.pdb
+C:\Work\Examples\Fluxor.Server\API\bin\Debug\net6.0\Core.dll
+C:\Work\Examples\Fluxor.Server\API\bin\Debug\net6.0\Core.pdb
+C:\Work\Examples\Fluxor.Server\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Work\Examples\Fluxor.Server\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Examples\Fluxor.Server\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Work\Examples\Fluxor.Server\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Work\Examples\Fluxor.Server\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Work\Examples\Fluxor.Server\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Work\Examples\Fluxor.Server\API\obj\Debug\net6.0\API.dll
+C:\Work\Examples\Fluxor.Server\API\obj\Debug\net6.0\refint\API.dll
+C:\Work\Examples\Fluxor.Server\API\obj\Debug\net6.0\API.pdb
+C:\Work\Examples\Fluxor.Server\API\obj\Debug\net6.0\ref\API.dll
