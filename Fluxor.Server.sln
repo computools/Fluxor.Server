@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluxor.Server", "Fluxor.Server\Fluxor.Server.csproj", "{2EAC891B-8F32-434D-B9B1-FF2F693EA2CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redux", "Redux\Redux.csproj", "{4AB18168-F7DA-413C-A930-53A673F6B697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{6834354B-CF7C-46BA-93AA-A4FC752241A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{3BADA050-8249-4E34-9056-82D6B35EF166}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EAC891B-8F32-434D-B9B1-FF2F693EA2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EAC891B-8F32-434D-B9B1-FF2F693EA2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EAC891B-8F32-434D-B9B1-FF2F693EA2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EAC891B-8F32-434D-B9B1-FF2F693EA2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB18168-F7DA-413C-A930-53A673F6B697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB18168-F7DA-413C-A930-53A673F6B697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB18168-F7DA-413C-A930-53A673F6B697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB18168-F7DA-413C-A930-53A673F6B697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6834354B-CF7C-46BA-93AA-A4FC752241A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6834354B-CF7C-46BA-93AA-A4FC752241A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6834354B-CF7C-46BA-93AA-A4FC752241A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6834354B-CF7C-46BA-93AA-A4FC752241A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BADA050-8249-4E34-9056-82D6B35EF166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BADA050-8249-4E34-9056-82D6B35EF166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BADA050-8249-4E34-9056-82D6B35EF166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BADA050-8249-4E34-9056-82D6B35EF166}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F38A4546-B08A-42D7-9C93-49EDEF4AF2FB}
+	EndGlobalSection
+EndGlobal

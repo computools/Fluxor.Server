@@ -1,0 +1,17 @@
+C:\Work\Examples\Fluxor.Server\Redux\bin\Debug\net6.0\Redux.deps.json
+C:\Work\Examples\Fluxor.Server\Redux\bin\Debug\net6.0\Redux.dll
+C:\Work\Examples\Fluxor.Server\Redux\bin\Debug\net6.0\Redux.pdb
+C:\Work\Examples\Fluxor.Server\Redux\bin\Debug\net6.0\API.dll
+C:\Work\Examples\Fluxor.Server\Redux\bin\Debug\net6.0\Core.dll
+C:\Work\Examples\Fluxor.Server\Redux\bin\Debug\net6.0\API.pdb
+C:\Work\Examples\Fluxor.Server\Redux\bin\Debug\net6.0\Core.pdb
+C:\Work\Examples\Fluxor.Server\Redux\obj\Debug\net6.0\Redux.csproj.AssemblyReference.cache
+C:\Work\Examples\Fluxor.Server\Redux\obj\Debug\net6.0\Redux.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Examples\Fluxor.Server\Redux\obj\Debug\net6.0\Redux.AssemblyInfoInputs.cache
+C:\Work\Examples\Fluxor.Server\Redux\obj\Debug\net6.0\Redux.AssemblyInfo.cs
+C:\Work\Examples\Fluxor.Server\Redux\obj\Debug\net6.0\Redux.csproj.CoreCompileInputs.cache
+C:\Work\Examples\Fluxor.Server\Redux\obj\Debug\net6.0\Redux.csproj.CopyComplete
+C:\Work\Examples\Fluxor.Server\Redux\obj\Debug\net6.0\Redux.dll
+C:\Work\Examples\Fluxor.Server\Redux\obj\Debug\net6.0\refint\Redux.dll
+C:\Work\Examples\Fluxor.Server\Redux\obj\Debug\net6.0\Redux.pdb
+C:\Work\Examples\Fluxor.Server\Redux\obj\Debug\net6.0\ref\Redux.dll
